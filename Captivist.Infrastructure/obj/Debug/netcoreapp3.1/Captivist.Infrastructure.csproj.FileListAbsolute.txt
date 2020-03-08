@@ -1,0 +1,5 @@
+C:\Users\Anthony\Documents\DevFolder\Captivist\CaptivistApp\Captivist.Infrastructure\bin\Debug\netcoreapp3.1\Captivist.Infrastructure.deps.json
+C:\Users\Anthony\Documents\DevFolder\Captivist\CaptivistApp\Captivist.Infrastructure\bin\Debug\netcoreapp3.1\Captivist.Infrastructure.dll
+C:\Users\Anthony\Documents\DevFolder\Captivist\CaptivistApp\Captivist.Infrastructure\obj\Debug\netcoreapp3.1\Captivist.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Anthony\Documents\DevFolder\Captivist\CaptivistApp\Captivist.Infrastructure\obj\Debug\netcoreapp3.1\Captivist.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Anthony\Documents\DevFolder\Captivist\CaptivistApp\Captivist.Infrastructure\obj\Debug\netcoreapp3.1\Captivist.Infrastructure.AssemblyInfo.cs
